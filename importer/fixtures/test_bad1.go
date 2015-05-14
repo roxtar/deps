@@ -1,0 +1,2 @@
+package test_bad
+import unquoted_import
